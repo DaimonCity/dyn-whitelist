@@ -7,7 +7,7 @@ DynWhitelist is an unofficial Minecraft mod that adds system of DynWhiteList.
 - Checking if a player is in the database (or another storage), when player tries join to server 
 
 ## How to Use
-1. Setup Minecraft Server **1.21.x**
+1. Setup Minecraft Server **1.21.x** (1.21 and 1.21.1 reccomended)
 2. Install **Fabric**
 3. Put the mod `.jar` file into the `mods` folder
 4. Launch the server
@@ -18,7 +18,7 @@ DynWhitelist is an unofficial Minecraft mod that adds system of DynWhiteList.
 - Config file: `dyn-whitelist.properties`
 
 ## Compatibility
-- Minecraft: 1.21.x
+- Minecraft: 1.21.x (1.21 and 1.21.1 reccomended)
 - Mod Loader: Fabric
 
 ## License
