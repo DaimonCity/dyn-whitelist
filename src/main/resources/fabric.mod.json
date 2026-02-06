@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "dyn-whitelist",
+  "version": "${version}",
+  "name": "dyn-whitelist",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/dyn-whitelist/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.daimon.dynWhitelist.DynWhitelist"
+    ]
+  },
+  "mixins": [
+    "dyn-whitelist.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
