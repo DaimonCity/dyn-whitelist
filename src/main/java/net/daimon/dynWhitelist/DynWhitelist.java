@@ -38,9 +38,9 @@ public class DynWhitelist implements ModInitializer {
                 System.out.println(status);
 
                 if (status == 403) {
-                    handler.disconnect(Text.literal("Доступ запрещён"));
+                    handler.disconnect(Text.translatable(MOD_ID + ".message.forbidden"));
                 } else if (status != 200) {
-                    handler.disconnect(Text.literal("Ошибка проверки доступа"));
+                    handler.disconnect(Text.translatable(MOD_ID + ".message.error"));
                 }
 
             }));

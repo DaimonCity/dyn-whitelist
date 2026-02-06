@@ -1,0 +1,4 @@
+{
+  "dynWhitelist.message.forbidden": "Доступ запрещён. Вы не в белом списке!",
+  "dynWhitelist.message.error": "Ошибка проверки доступа"
+}
