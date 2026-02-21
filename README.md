@@ -18,7 +18,7 @@ DynWhitelist is an unofficial Minecraft mod that adds system of DynWhiteList.
 - Config file: `dyn-whitelist.properties`
 
 ## Compatibility
-- Minecraft: 1.21.x (1.21 and 1.21.1 reccomended)
+- Minecraft: 1.21.x (1.21 and 1.21.1 recommended)
 - Mod Loader: Fabric
 
 ## License
